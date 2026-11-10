@@ -8,7 +8,7 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?logo=powerbi&logoColor=black)
 ![Status](https://img.shields.io/badge/Status-Approved%20for%20Analysis-success)
 
-![Dashboard home](images/01-home.png)
+![Dashboard home](github.com/anshanalytics/ikea-gifting-customer-rfm-analysis/blob/main/Home.png)
 
 ---
 
@@ -99,14 +99,14 @@ Landing page linking to both analysis pages, with a glossary of key metrics (Chu
 ### 2. Business Overview — *Tracking Customers and Revenue*
 KPI cards for total customers, total revenue, churned % and average customer value, with a **Customer ⇄ Revenue** toggle.
 
-![Business overview – customers](images/02-business-overview.png)
-![Business overview – revenue](images/03-business-revenue.png)
+![Business overview – customers](github.com/anshanalytics/ikea-gifting-customer-rfm-analysis/blob/main/Business%20Overview.png)
+![Business overview – revenue](github.com/anshanalytics/ikea-gifting-customer-rfm-analysis/blob/main/Business%20Overview%20(2).png)
 
 ### 3. RFM Analysis — *Recency, Frequency, Monetary*
 Segment performance summary, average customer value by segment, and churn % by month / quarter / year, with a **Segment ⇄ Country** toggle.
 
-![RFM analysis – segments](images/04-rfm-segment.png)
-![RFM analysis – countries](images/05-rfm-country.png)
+![RFM analysis – segments](github.com/anshanalytics/ikea-gifting-customer-rfm-analysis/blob/main/RFM.png)
+![RFM analysis – countries](github.com/anshanalytics/ikea-gifting-customer-rfm-analysis/blob/main/RFM.2.png)
 
 ## 💡 Key Findings
 
