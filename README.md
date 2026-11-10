@@ -113,7 +113,7 @@ Segment performance summary, average customer value by segment, and churn % by m
 From the dashboard (all figures as displayed in the report):
 
 - **5,881 customers** generated about **$17M** in revenue; average customer value is **$2,954**.
-- **Champions** are 1,291 customers (~22%) but contribute **~$11.8M, roughly 68% of revenue**. Average Champion value is ~$9,169 versus ~$429 for Lost customers.
+- **Champions** are 1,291 customers (about 22%) but contribute **about $11.8M, roughly 68% of revenue**. Average Champion value is about $9,169 versus about $429 for Lost customers.
 - **50.9%** of customers are flagged as churned under the 90-day rule. **Lost** (1,524) is the largest segment by headcount, followed by Loyal (1,416) and Champions (1,291).
 - **821 At Risk** customers (avg value ~$1,932) are the most actionable group: they were valuable and have recently gone quiet.
 - Revenue grew from $0.7M (2009, partial year) to ~$8.4M (2010) and ~$8.3M (2011), flat year over year. Revenue and customer counts peak in Q4.
